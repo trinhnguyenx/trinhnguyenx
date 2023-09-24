@@ -1,8 +1,6 @@
 ## Hi I'm Cong Trinh :fox_face:
-
-![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
-
-:computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
+I am an information technology student of The University of Danang - University of Science and Technology
+ I love coding, exploring new tech, and enjoy music and soccer in my free time. Let's connect and explore tech together!"
 
 ### My Tech Stack
 
@@ -12,14 +10,23 @@
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Firebase](http://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![PM2](http://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=ffffff)
+
 
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Tailwind CSS](http://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+
+
+### Backend
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![C++](http://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+
 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
