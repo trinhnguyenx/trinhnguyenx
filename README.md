@@ -1,6 +1,6 @@
 ## Hi I'm Cong Trinh :fox_face:
 I am an information technology student of The University of Danang - University of Science and Technology
- I love coding, exploring new tech, and enjoy music and soccer in my free time. Let's connect and explore tech together!"
+I love coding, exploring new tech, and enjoy music and soccer in my free time. Let's connect and explore tech together!"
 
 ### My Tech Stack
 
