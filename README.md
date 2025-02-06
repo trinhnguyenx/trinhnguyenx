@@ -24,8 +24,8 @@
 
 ### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
-![C++](http://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=ffffff)
 
 
 #### Database
